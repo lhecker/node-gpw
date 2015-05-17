@@ -1,0 +1,22 @@
+{
+	"name": "node-gpw",
+	"version": "1.0.0",
+	"description": "GPW for node.js - Generates human readable, memorable passwords.",
+	"main": "lib/gpw.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/lhecker/node-gpw.git"
+	},
+	"keywords": [
+		"generator",
+		"pass",
+		"password",
+		"random",
+		"security"
+	],
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/lhecker/node-gpw/issues"
+	},
+	"homepage": "https://github.com/lhecker/node-gpw#readme"
+}
